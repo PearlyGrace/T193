@@ -1,0 +1,33 @@
+.container-fluid{
+    padding-top: 2cm;
+    padding-left: 8cm;
+    padding-right: 4cm;
+}
+.row{
+    height: 100%;
+}
+.form-group{
+    font-size: 10px;
+    font-style: bold;
+    color: tomato;
+}
+.form-control{
+    background-color:whitesmoke;
+    width: 10cm;
+}
+.jumbotron { 
+    height: 100%;
+    padding: 100px;
+    padding-left: 2cm;
+    padding-top: 1cm;
+    padding-right: 5cm;
+}
+.bg{
+  background-image:url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
